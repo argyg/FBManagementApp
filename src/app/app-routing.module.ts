@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { OperationsFinancialAccountComponent } from './fbm-main-app/module/fbm-menu/operations-financial-account/operations-financial-account.component';
 import { TrackFinancialAccountComponent } from './fbm-main-app/module/fbm-menu/track-financial-account/track-financial-account.component';
+import { TrafficInInstallmentsComponent } from './fbm-main-app/module/fbm-menu/operations-financial-account/nev-path/traffic-in-installments/traffic-in-installments.component';
 
 const routes: Routes = [
   //next teb 1
