@@ -1,13 +1,13 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { AppComponent } from 'src/app/app.component';
-import { AppRoutingModule, MenuRoutingComponents } from './app-routing.module';
-import { fbmMainComponent } from './core/main-app/menu-app/fbm-main.component';
+import { AppComponent } from 'src/app/core/app-module/app.component';
+import { AppRoutingModule, MenuRoutingComponents } from './core/app-module/app-routing.module';
+import { MainFbmComponent } from './core/main-app/menu-app/main-fbm-component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    fbmMainComponent,
+    MainFbmComponent,
     MenuRoutingComponents
     
   ],
