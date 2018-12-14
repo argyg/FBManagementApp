@@ -2,15 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template:
-    `
-  <div>
-  <fbm-main-component></fbm-main-component> 
-  <router-outlet></router-outlet>
-</div>
-  `
-
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-
+  title = 'FBManagementApp';
 }
