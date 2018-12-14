@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { OperationsFinancialAccountComponent } from './fbm-main/menu/operations-financial-account/operations-financial-account.component';
-import { TrackFinancialAccountComponent } from './fbm-main/menu/track-financial-account/track-financial-account.component';
-import { TrafficInInstallmentsComponent } from './fbm-main/menu/operations-financial-account/traffic-in-installments/traffic-in-installments.component';
- 
+import { OperationsFinancialAccountComponent } from './fbm-main-app/module/fbm-menu/operations-financial-account/operations-financial-account.component';
+import { TrafficInInstallmentsComponent } from './fbm-main-app/module/fbm-menu/operations-financial-account/traffic-in-installments/traffic-in-installments.component';
+import { TrackFinancialAccountComponent } from './fbm-main-app/module/fbm-menu/track-financial-account/track-financial-account.component';
+
 const routes: Routes = [
   //next teb 1
   { path: '', redirectTo: '/operationsFinancialAccount', pathMatch: 'full' },
