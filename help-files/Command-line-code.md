@@ -6,6 +6,7 @@
 1.npm install -g @angular/cli
 2.ng new "my-app"
 3.ng serve
+4.ng generate " X " "NEME"
 //--X--Example---
       appShell,application,class,component,directive
       enum,guard,interface,library,module,pipe
