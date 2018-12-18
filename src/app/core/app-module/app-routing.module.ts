@@ -4,6 +4,10 @@ import { OperationsFinancialAccountComponent } from 'src/app/fbm-module-app/menu
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+import { TrafficInInstallmentsComponent } from 'src/app/fbm-module-app/menu-module/fbm-menu/operations-financial-account/nev-path/traffic-in-installments/traffic-in-installments.component';
+>>>>>>> parent of 7543c2a...  fix files: set new file header,nav section.... (15.12.18 ~ v 0.0.5)
 =======
 import { TrafficInInstallmentsComponent } from 'src/app/fbm-module-app/menu-module/fbm-menu/operations-financial-account/nev-path/traffic-in-installments/traffic-in-installments.component';
 >>>>>>> parent of 7543c2a...  fix files: set new file header,nav section.... (15.12.18 ~ v 0.0.5)
