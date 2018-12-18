@@ -10,11 +10,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 4.ng generate " X " "NEME"
 //--X--Example---
       appShell,application,class,component,directive
       enum,guard,interface,library,module,pipe
       service,serviceWorker,universal
+=======
+>>>>>>> parent of 7543c2a...  fix files: set new file header,nav section.... (15.12.18 ~ v 0.0.5)
 =======
 >>>>>>> parent of 7543c2a...  fix files: set new file header,nav section.... (15.12.18 ~ v 0.0.5)
 =======
